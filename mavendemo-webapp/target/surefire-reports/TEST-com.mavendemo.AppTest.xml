@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="com.mavendemo.AppTest" time="0.008" tests="3" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="com.mavendemo.AppTest" time="0.01" tests="3" errors="0" skipped="0" failures="0">
   <properties>
     <property name="sun.desktop" value="windows"/>
     <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
@@ -17,7 +17,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="ES"/>
     <property name="sun.boot.library.path" value="C:\Users\Internet\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_11.0.13.v20211116-1829\jre\bin"/>
-    <property name="sun.java.command" value="C:\Users\Internet\AppData\Local\Temp\surefire14154829895080269542\surefirebooter2382709770767612225.jar C:\Users\Internet\AppData\Local\Temp\surefire14154829895080269542 2021-12-13T10-54-23_916-jvmRun1 surefire15279669917908947489tmp surefire_02910890328603109209tmp"/>
+    <property name="sun.java.command" value="C:\Users\Internet\AppData\Local\Temp\surefire3732450332831452073\surefirebooter9867333515391670391.jar C:\Users\Internet\AppData\Local\Temp\surefire3732450332831452073 2021-12-13T15-27-17_936-jvmRun1 surefire7333254646536644777tmp surefire_05833996737998117721tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="C:\Users\Internet\Desktop\workspace\mavendemo-webapp\target\test-classes;C:\Users\Internet\Desktop\workspace\mavendemo-webapp\target\classes;C:\Users\Internet\.m2\repository\junit\junit\3.8.1\junit-3.8.1.jar;C:\Users\Internet\.m2\repository\log4j\log4j\1.2.17\log4j-1.2.17.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -33,7 +33,7 @@
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="C:\Users\Internet\AppData\Local\Temp\surefire14154829895080269542\surefirebooter2382709770767612225.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\Internet\AppData\Local\Temp\surefire3732450332831452073\surefirebooter9867333515391670391.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="11.0.13+8"/>
@@ -60,7 +60,7 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="55.0"/>
   </properties>
-  <testcase name="testAdd" classname="com.mavendemo.AppTest" time="0.002"/>
-  <testcase name="testDivide" classname="com.mavendemo.AppTest" time="0"/>
+  <testcase name="testDivide" classname="com.mavendemo.AppTest" time="0.002"/>
+  <testcase name="testAdd" classname="com.mavendemo.AppTest" time="0"/>
   <testcase name="testSubtract" classname="com.mavendemo.AppTest" time="0"/>
 </testsuite>
