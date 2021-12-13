@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="com.mavendemo.AppTest" time="0.007" tests="3" errors="0" skipped="0" failures="1">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="com.mavendemo.AppTest" time="0.007" tests="3" errors="0" skipped="0" failures="0">
   <properties>
     <property name="sun.desktop" value="windows"/>
     <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
@@ -17,7 +17,7 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="ES"/>
     <property name="sun.boot.library.path" value="C:\Users\Internet\.p2\pool\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_11.0.13.v20211116-1829\jre\bin"/>
-    <property name="sun.java.command" value="C:\Users\Internet\AppData\Local\Temp\surefire10958073437700222410\surefirebooter12458285328124668186.jar C:\Users\Internet\AppData\Local\Temp\surefire10958073437700222410 2021-12-13T10-44-07_124-jvmRun1 surefire6008111731639610109tmp surefire_03770539736975690032tmp"/>
+    <property name="sun.java.command" value="C:\Users\Internet\AppData\Local\Temp\surefire13573956926663235543\surefirebooter15456600520694630059.jar C:\Users\Internet\AppData\Local\Temp\surefire13573956926663235543 2021-12-13T10-48-05_287-jvmRun1 surefire6412229169314070217tmp surefire_07157521657131843130tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="C:\Users\Internet\Desktop\workspace\mavendemo-webapp\target\test-classes;C:\Users\Internet\Desktop\workspace\mavendemo-webapp\target\classes;C:\Users\Internet\.m2\repository\junit\junit\3.8.1\junit-3.8.1.jar;C:\Users\Internet\.m2\repository\log4j\log4j\1.2.17\log4j-1.2.17.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -33,7 +33,7 @@
     <property name="java.specification.name" value="Java Platform API Specification"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
-    <property name="surefire.real.class.path" value="C:\Users\Internet\AppData\Local\Temp\surefire10958073437700222410\surefirebooter12458285328124668186.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\Internet\AppData\Local\Temp\surefire13573956926663235543\surefirebooter15456600520694630059.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="11.0.13+8"/>
@@ -60,16 +60,7 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="55.0"/>
   </properties>
-  <testcase name="testSubtract" classname="com.mavendemo.AppTest" time="0.002">
-    <failure message="expected:&lt;10&gt; but was:&lt;2&gt;" type="junit.framework.AssertionFailedError"><![CDATA[junit.framework.AssertionFailedError: expected:<10> but was:<2>
-	at junit.framework.Assert.fail(Assert.java:47)
-	at junit.framework.Assert.failNotEquals(Assert.java:282)
-	at junit.framework.Assert.assertEquals(Assert.java:64)
-	at junit.framework.Assert.assertEquals(Assert.java:201)
-	at junit.framework.Assert.assertEquals(Assert.java:207)
-	at com.mavendemo.AppTest.testSubtract(AppTest.java:41)
-]]></failure>
-  </testcase>
+  <testcase name="testAdd" classname="com.mavendemo.AppTest" time="0.001"/>
+  <testcase name="testSubtract" classname="com.mavendemo.AppTest" time="0"/>
   <testcase name="testDivide" classname="com.mavendemo.AppTest" time="0"/>
-  <testcase name="testAdd" classname="com.mavendemo.AppTest" time="0"/>
 </testsuite>
