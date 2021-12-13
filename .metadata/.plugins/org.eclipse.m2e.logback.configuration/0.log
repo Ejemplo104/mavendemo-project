@@ -1360,3 +1360,9 @@ org.eclipse.core.runtime.CoreException: Could not read maven project
 2021-12-13 10:52:48,726 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
 2021-12-13 10:52:48,728 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2021-12-13 10:52:48,728 [Worker-17: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Internet\Desktop\workspace\mavendemo-webapp\src\test\resources
+2021-12-13 10:54:17,089 [Worker-18: Launching Executing test in C__Users_Internet_Desktop_workspace_mavendemo-webapp] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Internet\Desktop\workspace\mavendemo-webapp
+2021-12-13 10:54:17,089 [Worker-18: Launching Executing test in C__Users_Internet_Desktop_workspace_mavendemo-webapp] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B test
+2021-12-13 10:54:25,669 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-13 10:54:25,670 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-12-13 10:54:25,672 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-13 10:54:25,672 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Internet\Desktop\workspace\mavendemo-webapp\src\test\resources
