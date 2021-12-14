@@ -140,3 +140,24 @@
 2021-12-14 11:29:35,484 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Internet\Desktop\workspace\mavendemox\src\test\resources
 2021-12-14 11:33:58,465 [Worker-10: Launching mavendemo-webapp] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Internet\Desktop\workspace\mavendemo-webapp
 2021-12-14 11:33:58,469 [Worker-10: Launching mavendemo-webapp] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install -U
+2021-12-14 11:46:17,277 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-14 11:46:17,287 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-12-14 11:46:17,796 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-14 11:46:17,796 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Internet\Desktop\workspace\mavendemo\src\test\resources
+2021-12-14 11:46:17,796 [Worker-18: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.learnmaven:mavendemo:1.0 @ C:\Users\Internet\Desktop\workspace\mavendemo\pom.xml.
+2021-12-14 11:46:19,039 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-14 11:46:19,044 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-12-14 11:46:19,048 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-14 11:46:19,048 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Internet\Desktop\workspace\mavendemo\src\test\resources
+2021-12-14 11:47:40,873 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2021-12-14 11:47:46,348 [Worker-20: Launching mavendemo (1)] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Internet\Desktop\workspace\mavendemo
+2021-12-14 11:47:46,349 [Worker-20: Launching mavendemo (1)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2021-12-14 11:49:01,313 [Worker-21: Launching Executing clean in C__Users_Internet_Desktop_workspace_mavendemox] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Internet\Desktop\workspace\mavendemox
+2021-12-14 11:49:01,315 [Worker-21: Launching Executing clean in C__Users_Internet_Desktop_workspace_mavendemox] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2021-12-14 11:53:28,421 [Worker-25: Launching Executing clean in C__Users_Internet_Desktop_workspace_mavendemo-parent] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\Internet\Desktop\workspace\mavendemo-parent
+2021-12-14 11:53:28,427 [Worker-25: Launching Executing clean in C__Users_Internet_Desktop_workspace_mavendemo-parent] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2021-12-14 11:55:57,146 [Worker-3: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.testmaventest:maventest-webapp:0.0.1-SNAPSHOT @ C:\Users\Internet\Desktop\workspace\maventest-webapp\pom.xml.
+2021-12-14 11:55:57,523 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-14 11:55:57,524 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Internet\Desktop\workspace\maventest-webapp\src\main\resources
+2021-12-14 11:55:57,528 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-12-14 11:55:57,529 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Internet\Desktop\workspace\maventest-webapp\src\test\resources
