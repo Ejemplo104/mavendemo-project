@@ -8,7 +8,7 @@
   <groupId>com.learnmaven</groupId>
   <artifactId>mavendemo-parent</artifactId>
   <version>1.0</version>
-  <relativePath>../pom.xml</relativePath>
+   <relativePath>../mavendemo-parent/pom.xml</relativePath>
 	</parent>
 
   <groupId>com.testmaventest</groupId>
