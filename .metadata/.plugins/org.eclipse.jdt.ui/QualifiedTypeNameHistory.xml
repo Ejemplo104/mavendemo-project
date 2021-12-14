@@ -1,8 +1,2 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<qualifiedTypeNameHistroy>
-    <fullyQualifiedTypeName name="org.apache.log4j.Logger"/>
-    <fullyQualifiedTypeName name="junit.framework.TestCase"/>
-    <fullyQualifiedTypeName name="junit.framework.TestSuite"/>
-    <fullyQualifiedTypeName name="junit.framework.Test"/>
-    <fullyQualifiedTypeName name="com.mavendemo.Calculator"/>
-</qualifiedTypeNameHistroy>
+<qualifiedTypeNameHistroy/>
