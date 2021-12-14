@@ -4,8 +4,7 @@
 
 	
 	<artifactId>mavendemo</artifactId>
-	<packaging>jar</packaging>
-
+	
 	<name>mavendemo</name>
 	<url>http://maven.apache.org</url>
 	
